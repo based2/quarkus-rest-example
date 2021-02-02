@@ -1,7 +1,8 @@
-Quarkus REST Example
-==================
+Quarkus Autonomous REST Example and Exception generator
+=======================================================
 
 This example shows a simple REST-API with intern H2 Database access running with Quarkus.
+
 
 Technologies
 ------------
@@ -22,6 +23,8 @@ Run
 
 REST call examples
 ----------
+Warning: It will add un-expected errors, 
+just expect a binary consistency.
 
 *_Get all contacts_*
 ```

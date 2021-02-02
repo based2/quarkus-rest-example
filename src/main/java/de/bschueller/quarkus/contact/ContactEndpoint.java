@@ -5,7 +5,7 @@ import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;
 import java.util.List;
 
-@Path("/api/contacts")
+@Path("/api/v3/contacts")
 public class ContactEndpoint {
 
     @Inject
